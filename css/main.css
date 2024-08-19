@@ -69,7 +69,7 @@ video {
     cursor: pointer;
     font-size:20px;
     text-decoration:none;
-    padding:30px 70px; 
+    padding:30px 60px; 
     margin-right: 20px;
     color:#fff;
     border-radius:0px;
@@ -87,7 +87,7 @@ font-family: arial;}
     cursor: pointer;
     font-size:20px;
     text-decoration:none;
-    padding:30px 115px; color:#fff;
+    padding:30px 95px; color:#fff;
     margin-top: 20px;
     border-radius:0px;
     border:2px solid #fff;
@@ -127,7 +127,7 @@ font-family: arial;}
             margin-left: auto;
             margin-top: 5%;
             z-index: 100;
-            width: 200px;
+            width: 100px;
             align-content: center;
 }
 
